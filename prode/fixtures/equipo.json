@@ -1,0 +1,386 @@
+[
+{
+  "model": "prode.equipo",
+  "pk": 1,
+  "fields": {
+    "nombre": "Argentina",
+    "dt": "Lionel Scaloni"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 2,
+  "fields": {
+    "nombre": "Brasil",
+    "dt": "Carlo Ancelotti"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 3,
+  "fields": {
+    "nombre": "Francia",
+    "dt": "Didier Deschamps"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 4,
+  "fields": {
+    "nombre": "Alemania",
+    "dt": "Julian Nagelsmann"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 5,
+  "fields": {
+    "nombre": "Austria",
+    "dt": "Ralf Rangnick"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 6,
+  "fields": {
+    "nombre": "Bélgica",
+    "dt": "Domenico Tedesco"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 7,
+  "fields": {
+    "nombre": "Croacia",
+    "dt": "Zlatko Dalić"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 8,
+  "fields": {
+    "nombre": "Escocia",
+    "dt": "Steve Clarke"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 9,
+  "fields": {
+    "nombre": "España",
+    "dt": "Luis de la Fuente"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 11,
+  "fields": {
+    "nombre": "Inglaterra",
+    "dt": "Gareth Southgate"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 12,
+  "fields": {
+    "nombre": "Irlanda del Norte",
+    "dt": "Michael O'Neill"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 13,
+  "fields": {
+    "nombre": "Noruega",
+    "dt": "Ståle Solbakken"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 14,
+  "fields": {
+    "nombre": "Países Bajos",
+    "dt": "Ronald Koeman"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 15,
+  "fields": {
+    "nombre": "Portugal",
+    "dt": "Fernando Manuel Costa Santos"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 16,
+  "fields": {
+    "nombre": "Suiza",
+    "dt": "Murat Yakin"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 17,
+  "fields": {
+    "nombre": "Suecia",
+    "dt": "Graham Potter"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 18,
+  "fields": {
+    "nombre": "Suiza",
+    "dt": "Murat Yakin"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 19,
+  "fields": {
+    "nombre": "Turquía",
+    "dt": "Vincenzo Montella"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 20,
+  "fields": {
+    "nombre": "Colombia",
+    "dt": "Néstor Lorenzo"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 21,
+  "fields": {
+    "nombre": "Ecuador",
+    "dt": "Sebastián Beccacece"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 22,
+  "fields": {
+    "nombre": "Paraguay",
+    "dt": "Gustavo Alfaro"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 23,
+  "fields": {
+    "nombre": "Uruguay",
+    "dt": "Marcelo Bielsa"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 24,
+  "fields": {
+    "nombre": "Perú",
+    "dt": "Jorge Fossati"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 25,
+  "fields": {
+    "nombre": "Japón",
+    "dt": "Hajime Moriyasu"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 26,
+  "fields": {
+    "nombre": "Corea del Sur",
+    "dt": "Hong Myung-bo"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 27,
+  "fields": {
+    "nombre": "Irán",
+    "dt": "Carlos Queiroz"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 28,
+  "fields": {
+    "nombre": "Arabia Saudita",
+    "dt": "Hervé Renard"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 29,
+  "fields": {
+    "nombre": "Australia",
+    "dt": "Graham Arnold"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 30,
+  "fields": {
+    "nombre": "Uzbekistán",
+    "dt": "Fabio Cannavaro"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 31,
+  "fields": {
+    "nombre": "Jordania",
+    "dt": "Jamal Sellami"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 32,
+  "fields": {
+    "nombre": "China",
+    "dt": "Marcello Lippi"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 33,
+  "fields": {
+    "nombre": "Marruecos",
+    "dt": "Walid Regragui"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 34,
+  "fields": {
+    "nombre": "Túnez",
+    "dt": "Mehdi Nafti"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 35,
+  "fields": {
+    "nombre": "Egipto",
+    "dt": "Xavi Pascual"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 36,
+  "fields": {
+    "nombre": "Argelia",
+    "dt": "Vladimir Petković"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 37,
+  "fields": {
+    "nombre": "Ghana",
+    "dt": "Otto Addo"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 38,
+  "fields": {
+    "nombre": "Cabo Verde",
+    "dt": "Pedro Leitao Brito"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 39,
+  "fields": {
+    "nombre": "Sudáfrica",
+    "dt": "Hugo Broos"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 40,
+  "fields": {
+    "nombre": "Senegal",
+    "dt": "Aliou Cissé"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 41,
+  "fields": {
+    "nombre": "Etiopía",
+    "dt": "Mesay Tefari"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 42,
+  "fields": {
+    "nombre": "Estados Unidos",
+    "dt": "Mauricio Pochettino"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 43,
+  "fields": {
+    "nombre": "México",
+    "dt": "Javier Aguirre"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 44,
+  "fields": {
+    "nombre": "Canadá",
+    "dt": "Jesse Marsch"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 45,
+  "fields": {
+    "nombre": "Panamá",
+    "dt": "Thomas Christiansen"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 46,
+  "fields": {
+    "nombre": "Haití",
+    "dt": "Sébastien Migné"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 47,
+  "fields": {
+    "nombre": "Curazao",
+    "dt": "Dick Advocaat"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 48,
+  "fields": {
+    "nombre": "Nueva Zelanda",
+    "dt": "Darren Bazeley"
+  }
+},
+{
+  "model": "prode.equipo",
+  "pk": 49,
+  "fields": {
+    "nombre": "Italia",
+    "dt": "Roberto Mancini"
+  }
+}
+]
